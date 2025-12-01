@@ -6,7 +6,7 @@ mahasiswa berdasarkan berbagai fitur akademik.
 
 ------------------------------------------------------------------------
 
-## \## 1. 📄 Deskripsi Singkat
+## 1. 📄 Deskripsi Singkat
 
 Proyek ini dilakukan sebagai tugas Machine Learning dengan studi kasus:
 
@@ -40,13 +40,13 @@ Dataset dimuat menggunakan Pandas.
 
 ## 3. 🧪 Langkah Pengerjaan (Sesuai Instruksi Tugas)
 
-### \### A. Setup & Loading Dataset
+A. Setup & Loading Dataset
 
 -   Import library
 -   Load data
 -   Cek info & missing values
 
-### \### B. Exploratory Data Analysis
+B. Exploratory Data Analysis
 
 Visualisasi: - Histogram IPK\
 - Countplot kelulusan\
@@ -55,14 +55,14 @@ Visualisasi: - Histogram IPK\
 Menjawab pertanyaan analitis: - Apakah IPK memengaruhi kelulusan? -
 Fitur mana yang paling berpengaruh?
 
-### \### C. Preprocessing
+C. Preprocessing
 
 -   Menghapus missing value
 -   Label Encoding untuk kategori
 -   StandardScaler → **wajib** untuk SVM
 -   Train-test split (80:20)
 
-### \### D. Training Model
+D. Training Model
 
 Model dilatih: - SVM Linear\
 - SVM RBF
@@ -71,13 +71,13 @@ Evaluasi: - Accuracy - Precision, Recall, F1-score - Confusion matrix
 
 Tuning parameter: - C = {0.1, 1, 10} - gamma = {scale, 0.1, 1}
 
-### \### E. Interpretasi Model
+E. Interpretasi Model
 
 -   Fitur paling berpengaruh
 -   Penjelasan apakah data linearly separable
 -   Analisis performa model
 
-### \### F. Deployment
+F. Deployment
 
 Fungsi:
 
