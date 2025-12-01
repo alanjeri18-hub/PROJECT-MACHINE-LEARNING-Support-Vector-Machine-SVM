@@ -1,4 +1,4 @@
-# 📘 Project: Prediksi Kelulusan Mahasiswa Menggunakan SVM
+#  Project: Prediksi Kelulusan Mahasiswa Menggunakan SVM
 
 Repository ini berisi implementasi lengkap Machine Learning menggunakan
 **Support Vector Machine (SVM)** untuk memprediksi status kelulusan
@@ -6,7 +6,7 @@ mahasiswa berdasarkan berbagai fitur akademik.
 
 ------------------------------------------------------------------------
 
-## 1. 📄 Deskripsi Singkat
+## 1.  Deskripsi Singkat
 
 Proyek ini dilakukan sebagai tugas Machine Learning dengan studi kasus:
 
@@ -22,7 +22,7 @@ Tuning - Evaluasi Model - Deployment fungsi prediksi sederhana
 
 ------------------------------------------------------------------------
 
-## 2. 📊 Dataset
+## 2.  Dataset
 
 Nama file: **datakelulusanmahasiswa.csv**
 
@@ -38,7 +38,7 @@ Dataset dimuat menggunakan Pandas.
 
 ------------------------------------------------------------------------
 
-## 3. 🧪 Langkah Pengerjaan (Sesuai Instruksi Tugas)
+## 3.  Langkah Pengerjaan (Sesuai Instruksi Tugas)
 
 A. Setup & Loading Dataset
 
@@ -85,9 +85,9 @@ Fungsi:
 
 ------------------------------------------------------------------------
 
-## 4. 📁 Struktur Repository
+## 4.  Struktur Repository
 
-    📦 SVM-Kelulusan
+     SVM-Kelulusan
     │
     ├── data/
     │   └── datakelulusanmahasiswa.csv
@@ -99,7 +99,7 @@ Fungsi:
 
 ------------------------------------------------------------------------
 
-## 5. 📈 Hasil Evaluasi Model
+## 5.  Hasil Evaluasi Model
 
 Isi dengan hasil model kamu, contoh:
 
