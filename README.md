@@ -110,20 +110,8 @@ Isi dengan hasil model kamu, contoh:
     model linear.
 
 ------------------------------------------------------------------------
+## 6. 👤 Identitas Mahasiswa
 
-## 6. ▶ Cara Menjalankan Notebook
-
-1.  Buka Google Colab\
-2.  Upload file:
-    -   `SVM_kelulusan.ipynb`
-    -   `datakelulusanmahasiswa.csv`
-3.  Klik **Runtime → Run All**\
-4.  Jalankan fungsi prediksi pada bagian deployment.
-
-------------------------------------------------------------------------
-
-## 7. 👤 Identitas Mahasiswa
-
--   **Nama**: (Isi sendiri)
--   **NPM**: (Isi sendiri)
+-   **Nama**: (AL'ANJERI)
+-   **NPM**: (2457201002382)
 -   **Mata Kuliah**: Machine Learning
