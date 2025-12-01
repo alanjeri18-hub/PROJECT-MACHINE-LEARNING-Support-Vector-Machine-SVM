@@ -20,7 +20,6 @@ Teknik yang digunakan: - Exploratory Data Analysis (EDA) - Preprocessing
 (Encoding, Scaling) - Algoritma SVM (Linear & RBF) - Hyperparameter
 Tuning - Evaluasi Model - Deployment fungsi prediksi sederhana
 
-------------------------------------------------------------------------
 
 ## 2.  Dataset
 
@@ -36,7 +35,6 @@ Contoh fitur yang digunakan: - IPK\
 
 Dataset dimuat menggunakan Pandas.
 
-------------------------------------------------------------------------
 
 ## 3.  Langkah Pengerjaan (Sesuai Instruksi Tugas)
 
@@ -83,7 +81,6 @@ Fungsi:
 
     predict_status(ipk, sks, umur, lamastudi)
 
-------------------------------------------------------------------------
 
 ## 4.  Struktur Repository
 
@@ -97,7 +94,6 @@ Fungsi:
     └── screenshot/
         └── hasil_prediksi.png
 
-------------------------------------------------------------------------
 
 ## 5.  Hasil Evaluasi Model
 
@@ -109,7 +105,6 @@ Isi dengan hasil model kamu, contoh:
     Model RBF menghasilkan decision boundary yang lebih baik dibanding
     model linear.
 
-------------------------------------------------------------------------
 ## 6. 👤 Identitas Mahasiswa
 
 -   **Nama**: (AL'ANJERI)
